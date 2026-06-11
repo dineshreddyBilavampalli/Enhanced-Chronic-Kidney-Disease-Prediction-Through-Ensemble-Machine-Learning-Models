@@ -1,0 +1,2 @@
+# Enhanced-Chronic-Kidney-Disease-Prediction-Through-Ensemble-Machine-Learning-Models
+This project develops an intelligent Chronic Kidney Disease (CKD) prediction system using machine learning and ensemble learning techniques. By combining data preprocessing, feature selection, SMOTE balancing, and models such as ANN, KNN, SVM, Bagging, Boosting, and Stacking, it enables accurate and early CKD detection.
